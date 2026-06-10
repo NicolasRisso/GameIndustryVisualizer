@@ -100,7 +100,7 @@
 		{
 			"id": "PlayStation",
 			"name": "PlayStation",
-			"val": 20,
+			"val": 21,
 			"group": 1
 		},
 		{
@@ -154,7 +154,7 @@
 		{
 			"id": "Xbox",
 			"name": "Xbox",
-			"val": 27,
+			"val": 28,
 			"group": 1
 		}
 	],
@@ -1194,10 +1194,10 @@
 		{
 			"source": "PlayStation",
 			"target": "Xbox",
-			"weight": 18,
+			"weight": 19,
 			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
 			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
-			"date": "2026-06-10T00:02:15+00:00"
+			"date": "2026-06-10T01:00:20+00:00"
 		},
 		{
 			"source": "Rockstar",

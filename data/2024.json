@@ -2,31 +2,109 @@
 	"year": "2024",
 	"nodes": [
 		{
+			"id": "BioWare",
+			"name": "BioWare",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Blizzard",
+			"name": "Blizzard",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Epic Games",
+			"name": "Epic Games",
+			"val": 3,
+			"group": 1
+		},
+		{
 			"id": "Insomniac",
 			"name": "Insomniac",
 			"val": 1,
 			"group": 1
 		},
 		{
+			"id": "Microsoft",
+			"name": "Microsoft",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Naughty Dog",
+			"name": "Naughty Dog",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "Nintendo",
+			"name": "Nintendo",
+			"val": 5,
+			"group": 1
+		},
+		{
 			"id": "PlayStation",
 			"name": "PlayStation",
+			"val": 3,
+			"group": 1
+		},
+		{
+			"id": "Rockstar",
+			"name": "Rockstar",
 			"val": 1,
 			"group": 1
 		},
 		{
 			"id": "Sony",
 			"name": "Sony",
-			"val": 1,
+			"val": 5,
+			"group": 1
+		},
+		{
+			"id": "Valve",
+			"name": "Valve",
+			"val": 3,
+			"group": 1
+		},
+		{
+			"id": "Warner Bros",
+			"name": "Warner Bros",
+			"val": 5,
 			"group": 1
 		},
 		{
 			"id": "Xbox",
 			"name": "Xbox",
-			"val": 1,
+			"val": 3,
 			"group": 1
 		}
 	],
 	"links": [
+		{
+			"source": "Epic Games",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "How to easily run Windows 11 on Steam Deck",
+			"url": "https://www.polygon.com/gaming/501039/steam-deck-how-to-install-windows-11-guide/",
+			"date": "2024-12-27T18:00:00+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "Valve",
+			"weight": 1,
+			"article": "How to easily run Windows 11 on Steam Deck",
+			"url": "https://www.polygon.com/gaming/501039/steam-deck-how-to-install-windows-11-guide/",
+			"date": "2024-12-27T18:00:00+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "How to easily run Windows 11 on Steam Deck",
+			"url": "https://www.polygon.com/gaming/501039/steam-deck-how-to-install-windows-11-guide/",
+			"date": "2024-12-27T18:00:00+00:00"
+		},
 		{
 			"source": "Insomniac",
 			"target": "PlayStation",
@@ -52,12 +130,52 @@
 			"date": "2024-11-06T11:00:00+00:00"
 		},
 		{
-			"source": "PlayStation",
+			"source": "Microsoft",
+			"target": "Valve",
+			"weight": 1,
+			"article": "How to easily run Windows 11 on Steam Deck",
+			"url": "https://www.polygon.com/gaming/501039/steam-deck-how-to-install-windows-11-guide/",
+			"date": "2024-12-27T18:00:00+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "How to easily run Windows 11 on Steam Deck",
+			"url": "https://www.polygon.com/gaming/501039/steam-deck-how-to-install-windows-11-guide/",
+			"date": "2024-12-27T18:00:00+00:00"
+		},
+		{
+			"source": "Naughty Dog",
 			"target": "Sony",
 			"weight": 1,
-			"article": "PlayStation 5 Pro Review",
-			"url": "https://www.ign.com/articles/playstation-5-pro-review",
-			"date": "2024-11-06T11:00:00+00:00"
+			"article": "Naughty Dog co-founder says \u2018ballooning budgets\u2019 drove it to a Sony acquisition",
+			"url": "https://www.polygon.com/gaming/502300/naughty-dog-sony-acquisition-video-game-budgets/",
+			"date": "2024-12-26T22:26:08+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Valve",
+			"weight": 1,
+			"article": "Gaming with expensive AR smart glasses is first-class fun",
+			"url": "https://www.polygon.com/hardware/499648/xreal-one-ar-glasses-review-meta-quest-3s-vr-steam-deck-usbc/",
+			"date": "2024-12-23T14:00:00+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Warner Bros",
+			"weight": 1,
+			"article": "Warner Bros. just killed a bunch of Cartoon Network games",
+			"url": "https://www.polygon.com/gaming/501567/cartoon-network-games-delisted-steam-nintendo/",
+			"date": "2024-12-23T20:16:10+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Sony",
+			"weight": 2,
+			"article": "The best PlayStation 5 deal of the year is still available",
+			"url": "https://www.polygon.com/good-deals/502520/playstation-5-sale-slim-digital-console-bundle-best-buy/",
+			"date": "2024-12-27T19:16:16+00:00"
 		},
 		{
 			"source": "PlayStation",
@@ -74,6 +192,14 @@
 			"article": "PlayStation 5 Pro Review",
 			"url": "https://www.ign.com/articles/playstation-5-pro-review",
 			"date": "2024-11-06T11:00:00+00:00"
+		},
+		{
+			"source": "Valve",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "How to easily run Windows 11 on Steam Deck",
+			"url": "https://www.polygon.com/gaming/501039/steam-deck-how-to-install-windows-11-guide/",
+			"date": "2024-12-27T18:00:00+00:00"
 		}
 	]
 }

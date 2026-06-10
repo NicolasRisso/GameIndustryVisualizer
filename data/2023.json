@@ -2,48 +2,914 @@
 	"year": "2023",
 	"nodes": [
 		{
+			"id": "Activision",
+			"name": "Activision",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Bethesda",
+			"name": "Bethesda",
+			"val": 3,
+			"group": 1
+		},
+		{
+			"id": "BioWare",
+			"name": "BioWare",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "Blizzard",
+			"name": "Blizzard",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "Bungie",
+			"name": "Bungie",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "CD Projekt",
+			"name": "CD Projekt",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Electronic Arts",
+			"name": "Electronic Arts",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Epic Games",
+			"name": "Epic Games",
+			"val": 4,
+			"group": 1
+		},
+		{
+			"id": "Insomniac",
+			"name": "Insomniac",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Konami",
+			"name": "Konami",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "Larian Studios",
+			"name": "Larian Studios",
+			"val": 3,
+			"group": 1
+		},
+		{
+			"id": "Microsoft",
+			"name": "Microsoft",
+			"val": 2,
+			"group": 1
+		},
+		{
 			"id": "Nintendo",
 			"name": "Nintendo",
-			"val": 1,
+			"val": 12,
 			"group": 1
 		},
 		{
 			"id": "PlayStation",
 			"name": "PlayStation",
+			"val": 13,
+			"group": 1
+		},
+		{
+			"id": "Rockstar",
+			"name": "Rockstar",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Sega",
+			"name": "Sega",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Sony",
+			"name": "Sony",
+			"val": 4,
+			"group": 1
+		},
+		{
+			"id": "Square Enix",
+			"name": "Square Enix",
 			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "Ubisoft",
+			"name": "Ubisoft",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "Valve",
+			"name": "Valve",
+			"val": 5,
+			"group": 1
+		},
+		{
+			"id": "Warner Bros",
+			"name": "Warner Bros",
+			"val": 8,
 			"group": 1
 		},
 		{
 			"id": "Xbox",
 			"name": "Xbox",
-			"val": 1,
+			"val": 9,
 			"group": 1
 		}
 	],
 	"links": [
 		{
-			"source": "Nintendo",
+			"source": "Activision",
+			"target": "Electronic Arts",
+			"weight": 1,
+			"article": "These were the biggest games on Steam (and Steam Deck) in 2023",
+			"url": "https://www.polygon.com/24012749/steam-top-sellers-2023-deck-most-played-games/",
+			"date": "2023-12-27T18:00:00+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "Remembering the weirder news that happened in 2023",
+			"url": "https://www.polygon.com/24018116/2023-weird-news-stories-mm-spokescandies-grimace-shake-really-happened/",
+			"date": "2023-12-30T18:07:00+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "Remembering the weirder news that happened in 2023",
+			"url": "https://www.polygon.com/24018116/2023-weird-news-stories-mm-spokescandies-grimace-shake-really-happened/",
+			"date": "2023-12-30T18:07:00+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Valve",
+			"weight": 1,
+			"article": "These were the biggest games on Steam (and Steam Deck) in 2023",
+			"url": "https://www.polygon.com/24012749/steam-top-sellers-2023-deck-most-played-games/",
+			"date": "2023-12-27T18:00:00+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Warner Bros",
+			"weight": 1,
+			"article": "Remembering the weirder news that happened in 2023",
+			"url": "https://www.polygon.com/24018116/2023-weird-news-stories-mm-spokescandies-grimace-shake-really-happened/",
+			"date": "2023-12-30T18:07:00+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "BioWare",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Bungie",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "CD Projekt",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Electronic Arts",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Epic Games",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Insomniac",
+			"weight": 1,
+			"article": "I wish it didn\u2019t take federal crimes to see video games mid-development",
+			"url": "https://www.polygon.com/24009856/insomniac-games-in-progress-gameplay-leak-hack/",
+			"date": "2023-12-21T20:30:00+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Konami",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Sega",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Valve",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Warner Bros",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Bungie",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "CD Projekt",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Electronic Arts",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Epic Games",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Konami",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Sega",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Valve",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Warner Bros",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "10 games to buy on Steam with your holiday gift card",
+			"url": "https://www.polygon.com/deals/24006605/steam-gift-card-game-recommendations-2023/",
+			"date": "2023-12-24T15:30:00+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Valve",
+			"weight": 1,
+			"article": "10 games to buy on Steam with your holiday gift card",
+			"url": "https://www.polygon.com/deals/24006605/steam-gift-card-game-recommendations-2023/",
+			"date": "2023-12-24T15:30:00+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "CD Projekt",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Electronic Arts",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Epic Games",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Konami",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Sega",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Valve",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Warner Bros",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Electronic Arts",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Epic Games",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Konami",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "5 games to play first on your new PS5",
+			"url": "https://www.polygon.com/what-to-play/24006656/playstation-5-ps5-best-games-to-play-first/",
+			"date": "2023-12-24T14:00:00+00:00"
+		},
+		{
+			"source": "CD Projekt",
 			"target": "PlayStation",
 			"weight": 1,
-			"article": "The Legend of Zelda: Tears of the Kingdom Review",
-			"url": "https://www.ign.com/articles/the-legend-of-zelda-tears-of-the-kingdom-review",
-			"date": "2023-05-11T12:00:00+00:00"
+			"article": "5 games to play first on your new PS5",
+			"url": "https://www.polygon.com/what-to-play/24006656/playstation-5-ps5-best-games-to-play-first/",
+			"date": "2023-12-24T14:00:00+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Sega",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Sony",
+			"weight": 1,
+			"article": "5 games to play first on your new PS5",
+			"url": "https://www.polygon.com/what-to-play/24006656/playstation-5-ps5-best-games-to-play-first/",
+			"date": "2023-12-24T14:00:00+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Valve",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Warner Bros",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "5 games to play first on your new PS5",
+			"url": "https://www.polygon.com/what-to-play/24006656/playstation-5-ps5-best-games-to-play-first/",
+			"date": "2023-12-24T14:00:00+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Epic Games",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Konami",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Sega",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Valve",
+			"weight": 2,
+			"article": "These were the biggest games on Steam (and Steam Deck) in 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Warner Bros",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "Konami",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "What to know about Lego Fortnite if you\u2019re just getting started",
+			"url": "https://www.polygon.com/fortnite/24012633/lego-fortnite-download-epic-games-account-vbucks-crossplay/",
+			"date": "2023-12-23T16:00:00+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "PlayStation",
+			"weight": 2,
+			"article": "What to know about Lego Fortnite if you\u2019re just getting started",
+			"url": "https://www.polygon.com/fortnite/24012633/lego-fortnite-download-epic-games-account-vbucks-crossplay/",
+			"date": "2023-12-23T16:00:00+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "Sega",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "Valve",
+			"weight": 2,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "Warner Bros",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "What to know about Lego Fortnite if you\u2019re just getting started",
+			"url": "https://www.polygon.com/fortnite/24012633/lego-fortnite-download-epic-games-account-vbucks-crossplay/",
+			"date": "2023-12-23T16:00:00+00:00"
+		},
+		{
+			"source": "Insomniac",
+			"target": "Rockstar",
+			"weight": 1,
+			"article": "GTA 6 lead hacker faces indefinite custody in \u2018secure hospital\u2019",
+			"url": "https://www.polygon.com/24011225/rockstar-games-gta-6-hack-sentencing/",
+			"date": "2023-12-21T19:06:32+00:00"
+		},
+		{
+			"source": "Insomniac",
+			"target": "Sony",
+			"weight": 1,
+			"article": "GTA 6 lead hacker faces indefinite custody in \u2018secure hospital\u2019",
+			"url": "https://www.polygon.com/24011225/rockstar-games-gta-6-hack-sentencing/",
+			"date": "2023-12-21T19:06:32+00:00"
+		},
+		{
+			"source": "Konami",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Konami",
+			"target": "Sega",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Konami",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Konami",
+			"target": "Valve",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Konami",
+			"target": "Warner Bros",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Larian Studios",
+			"target": "PlayStation",
+			"weight": 1,
+			"article": "Baldur\u2019s Gate 3 patch fixes horrifying \u2018Pinocchio issue\u2019",
+			"url": "https://www.polygon.com/24011196/baldurs-gate-3-hotfix-15-patch-notes-update-glitch-bug/",
+			"date": "2023-12-21T17:59:09+00:00"
+		},
+		{
+			"source": "Larian Studios",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "Baldur\u2019s Gate 3 patch fixes horrifying \u2018Pinocchio issue\u2019",
+			"url": "https://www.polygon.com/24011196/baldurs-gate-3-hotfix-15-patch-notes-update-glitch-bug/",
+			"date": "2023-12-21T17:59:09+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "Remembering the weirder news that happened in 2023",
+			"url": "https://www.polygon.com/24018116/2023-weird-news-stories-mm-spokescandies-grimace-shake-really-happened/",
+			"date": "2023-12-30T18:07:00+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Sega",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Valve",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Warner Bros",
+			"weight": 2,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-30T18:07:00+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "PlayStation",
+			"weight": 6,
+			"article": "What to know about Lego Fortnite if you\u2019re just getting started",
+			"url": "https://www.polygon.com/what-to-play/24006656/playstation-5-ps5-best-games-to-play-first/",
+			"date": "2023-12-26T14:00:00+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Sega",
+			"weight": 1,
+			"article": "I spent 3 nights at Nintendo\u2019s original HQ",
+			"url": "https://www.polygon.com/24009383/nintendo-hotel-marufukuro-kyoto-gojo/",
+			"date": "2023-12-24T17:30:00+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Sony",
+			"weight": 2,
+			"article": "PlayStation classic Alien Resurrection hides one heck of a piracy secret",
+			"url": "https://www.polygon.com/what-to-play/24006656/playstation-5-ps5-best-games-to-play-first/",
+			"date": "2023-12-24T14:00:00+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Warner Bros",
+			"weight": 1,
+			"article": "Remembering the weirder news that happened in 2023",
+			"url": "https://www.polygon.com/24018116/2023-weird-news-stories-mm-spokescandies-grimace-shake-really-happened/",
+			"date": "2023-12-30T18:07:00+00:00"
 		},
 		{
 			"source": "Nintendo",
 			"target": "Xbox",
+			"weight": 5,
+			"article": "What to know about Lego Fortnite if you\u2019re just getting started",
+			"url": "https://www.polygon.com/what-to-play/24006656/playstation-5-ps5-best-games-to-play-first/",
+			"date": "2023-12-26T14:00:00+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Rockstar",
 			"weight": 1,
-			"article": "The Legend of Zelda: Tears of the Kingdom Review",
-			"url": "https://www.ign.com/articles/the-legend-of-zelda-tears-of-the-kingdom-review",
-			"date": "2023-05-11T12:00:00+00:00"
+			"article": "The internet is full of weird and wonderful Grand Theft Auto 6 trailer remixes",
+			"url": "https://www.polygon.com/24017780/grand-theft-auto-6-gta-trailer-fortnite-minecraft-youtube/",
+			"date": "2023-12-28T18:34:22+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Sony",
+			"weight": 3,
+			"article": "PlayStation classic Alien Resurrection hides one heck of a piracy secret",
+			"url": "https://www.polygon.com/what-to-play/24006656/playstation-5-ps5-best-games-to-play-first/",
+			"date": "2023-12-27T17:00:23+00:00"
 		},
 		{
 			"source": "PlayStation",
 			"target": "Xbox",
+			"weight": 7,
+			"article": "What to know about Lego Fortnite if you\u2019re just getting started",
+			"url": "https://www.polygon.com/what-to-play/24006656/playstation-5-ps5-best-games-to-play-first/",
+			"date": "2023-12-27T15:00:00+00:00"
+		},
+		{
+			"source": "Rockstar",
+			"target": "Sony",
 			"weight": 1,
-			"article": "The Legend of Zelda: Tears of the Kingdom Review",
-			"url": "https://www.ign.com/articles/the-legend-of-zelda-tears-of-the-kingdom-review",
-			"date": "2023-05-11T12:00:00+00:00"
+			"article": "GTA 6 lead hacker faces indefinite custody in \u2018secure hospital\u2019",
+			"url": "https://www.polygon.com/24011225/rockstar-games-gta-6-hack-sentencing/",
+			"date": "2023-12-21T19:06:32+00:00"
+		},
+		{
+			"source": "Sega",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Sega",
+			"target": "Valve",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Sega",
+			"target": "Warner Bros",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Sony",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "5 games to play first on your new PS5",
+			"url": "https://www.polygon.com/what-to-play/24006656/playstation-5-ps5-best-games-to-play-first/",
+			"date": "2023-12-24T14:00:00+00:00"
+		},
+		{
+			"source": "Square Enix",
+			"target": "Valve",
+			"weight": 1,
+			"article": "10 games to buy on Steam with your holiday gift card",
+			"url": "https://www.polygon.com/deals/24006605/steam-gift-card-game-recommendations-2023/",
+			"date": "2023-12-24T15:30:00+00:00"
+		},
+		{
+			"source": "Ubisoft",
+			"target": "Valve",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Ubisoft",
+			"target": "Warner Bros",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
+		},
+		{
+			"source": "Valve",
+			"target": "Warner Bros",
+			"weight": 1,
+			"article": "The biggest gaming controversies of 2023",
+			"url": "https://www.polygon.com/gaming/24016867/2023-gaming-controversy-hogwarts-legacy-unity-tgas-layoffs/",
+			"date": "2023-12-29T17:10:49+00:00"
 		}
 	]
 }
