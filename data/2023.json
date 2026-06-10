@@ -1,0 +1,49 @@
+{
+	"year": "2023",
+	"nodes": [
+		{
+			"id": "Nintendo",
+			"name": "Nintendo",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "PlayStation",
+			"name": "PlayStation",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "Xbox",
+			"name": "Xbox",
+			"val": 1,
+			"group": 1
+		}
+	],
+	"links": [
+		{
+			"source": "Nintendo",
+			"target": "PlayStation",
+			"weight": 1,
+			"article": "The Legend of Zelda: Tears of the Kingdom Review",
+			"url": "https://www.ign.com/articles/the-legend-of-zelda-tears-of-the-kingdom-review",
+			"date": "2023-05-11T12:00:00+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "The Legend of Zelda: Tears of the Kingdom Review",
+			"url": "https://www.ign.com/articles/the-legend-of-zelda-tears-of-the-kingdom-review",
+			"date": "2023-05-11T12:00:00+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "The Legend of Zelda: Tears of the Kingdom Review",
+			"url": "https://www.ign.com/articles/the-legend-of-zelda-tears-of-the-kingdom-review",
+			"date": "2023-05-11T12:00:00+00:00"
+		}
+	]
+}

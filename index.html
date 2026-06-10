@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Industry Connections</title>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <!-- Main Style -->
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    
+    <!-- UI Overlay container -->
+    <div id="ui-panel">
+        <h1>Game Industry Ecosystem</h1>
+        <p>Analyze company partnerships, mentions, and connections through the years.</p>
+        
+        <div class="controls-container">
+            <!-- Year Selector -->
+            <div class="year-control">
+                <span class="control-label">Year</span>
+                <div class="year-selector">
+                    <button id="prev-year" class="btn-select" aria-label="Previous Year">&larr;</button>
+                    <span id="current-year-display">2026</span>
+                    <button id="next-year" class="btn-select" aria-label="Next Year">&rarr;</button>
+                </div>
+            </div>
+
+            <!-- Company Selector -->
+            <div class="company-control">
+                <span class="control-label">Focus Company</span>
+                <select id="company-select" class="dropdown-select">
+                    <option value="">All Companies (Full Network)</option>
+                </select>
+            </div>
+
+            <!-- Connection Depth Selector -->
+            <div class="depth-control">
+                <span class="control-label">Depth</span>
+                <select id="depth-select" class="dropdown-select small-select">
+                    <option value="1">1 (Direct Neighbors)</option>
+                    <option value="2">2 (Secondary Network)</option>
+                    <option value="3">3 (Tertiary Network)</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Collapse Toggle Button -->
+        <button id="toggle-panel-btn" class="toggle-panel-btn" title="Hide Controls">&#9650;</button>
+    </div>
+
+
+
+    <!-- Graph Container -->
+    <div id="graph-container"></div>
+    
+    <!-- Selected Node Info panel -->
+    <div id="info-panel" class="hidden">
+        <h2 id="node-title">Node</h2>
+        <p id="node-details">Details</p>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/force-graph"></script>
+    <script src="./app.js"></script>
+</body>
+</html>

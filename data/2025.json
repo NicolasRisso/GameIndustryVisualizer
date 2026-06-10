@@ -1,0 +1,1589 @@
+{
+	"year": "2025",
+	"nodes": [
+		{
+			"id": "Activision",
+			"name": "Activision",
+			"val": 8,
+			"group": 1
+		},
+		{
+			"id": "Atlus",
+			"name": "Atlus",
+			"val": 3,
+			"group": 1
+		},
+		{
+			"id": "Bandai Namco",
+			"name": "Bandai Namco",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Bethesda",
+			"name": "Bethesda",
+			"val": 12,
+			"group": 1
+		},
+		{
+			"id": "BioWare",
+			"name": "BioWare",
+			"val": 8,
+			"group": 1
+		},
+		{
+			"id": "Blizzard",
+			"name": "Blizzard",
+			"val": 8,
+			"group": 1
+		},
+		{
+			"id": "Bungie",
+			"name": "Bungie",
+			"val": 3,
+			"group": 1
+		},
+		{
+			"id": "CD Projekt",
+			"name": "CD Projekt",
+			"val": 3,
+			"group": 1
+		},
+		{
+			"id": "Capcom",
+			"name": "Capcom",
+			"val": 9,
+			"group": 1
+		},
+		{
+			"id": "Electronic Arts",
+			"name": "Electronic Arts",
+			"val": 15,
+			"group": 1
+		},
+		{
+			"id": "Epic Games",
+			"name": "Epic Games",
+			"val": 11,
+			"group": 1
+		},
+		{
+			"id": "FromSoftware",
+			"name": "FromSoftware",
+			"val": 3,
+			"group": 1
+		},
+		{
+			"id": "Konami",
+			"name": "Konami",
+			"val": 5,
+			"group": 1
+		},
+		{
+			"id": "Larian Studios",
+			"name": "Larian Studios",
+			"val": 13,
+			"group": 1
+		},
+		{
+			"id": "Microsoft",
+			"name": "Microsoft",
+			"val": 11,
+			"group": 1
+		},
+		{
+			"id": "Mojang",
+			"name": "Mojang",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "Naughty Dog",
+			"name": "Naughty Dog",
+			"val": 7,
+			"group": 1
+		},
+		{
+			"id": "Nintendo",
+			"name": "Nintendo",
+			"val": 52,
+			"group": 1
+		},
+		{
+			"id": "PlayStation",
+			"name": "PlayStation",
+			"val": 47,
+			"group": 1
+		},
+		{
+			"id": "Rockstar",
+			"name": "Rockstar",
+			"val": 7,
+			"group": 1
+		},
+		{
+			"id": "Sega",
+			"name": "Sega",
+			"val": 10,
+			"group": 1
+		},
+		{
+			"id": "Sony",
+			"name": "Sony",
+			"val": 26,
+			"group": 1
+		},
+		{
+			"id": "Square Enix",
+			"name": "Square Enix",
+			"val": 8,
+			"group": 1
+		},
+		{
+			"id": "Take-Two",
+			"name": "Take-Two",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "Tencent",
+			"name": "Tencent",
+			"val": 3,
+			"group": 1
+		},
+		{
+			"id": "Ubisoft",
+			"name": "Ubisoft",
+			"val": 10,
+			"group": 1
+		},
+		{
+			"id": "Valve",
+			"name": "Valve",
+			"val": 8,
+			"group": 1
+		},
+		{
+			"id": "Warner Bros",
+			"name": "Warner Bros",
+			"val": 7,
+			"group": 1
+		},
+		{
+			"id": "Xbox",
+			"name": "Xbox",
+			"val": 46,
+			"group": 1
+		}
+	],
+	"links": [
+		{
+			"source": "Activision",
+			"target": "Bethesda",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Blizzard",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Bungie",
+			"weight": 1,
+			"article": "Arc Raiders opened the floodgates for extraction shooters in 2025",
+			"url": "https://www.polygon.com/arc-raiders-2025-extraction-shooters-floodgates/",
+			"date": "2025-12-20T14:00:15+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "CD Projekt",
+			"weight": 1,
+			"article": "Steam's bestselling games show 2025 was a wild, unpredictable ride",
+			"url": "https://www.polygon.com/steam-best-selling-pc-games-2025/",
+			"date": "2025-12-30T18:31:35+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Electronic Arts",
+			"weight": 2,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/respawn-vince-zampella-death-call-of-duty-battlefield-ea/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Konami",
+			"weight": 1,
+			"article": "After getting Silent Hill 'back on track,' Konami wants to make it an annual franchise",
+			"url": "https://www.polygon.com/silent-hill-annual-franchise-konami-new-games/",
+			"date": "2025-12-29T16:40:48+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "PlayStation",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Sega",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Sony",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Tencent",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Valve",
+			"weight": 1,
+			"article": "Steam's bestselling games show 2025 was a wild, unpredictable ride",
+			"url": "https://www.polygon.com/steam-best-selling-pc-games-2025/",
+			"date": "2025-12-30T18:31:35+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Capcom",
+			"weight": 1,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-11T00:00:00+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Naughty Dog",
+			"weight": 1,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-11T00:00:00+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Nintendo",
+			"weight": 2,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/worst-video-games-2025-metacritic/",
+			"date": "2025-12-21T13:00:15+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "PlayStation",
+			"weight": 1,
+			"article": "The worst games of 2025, according to Metacritic",
+			"url": "https://www.polygon.com/worst-video-games-2025-metacritic/",
+			"date": "2025-12-21T13:00:15+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Rockstar",
+			"weight": 1,
+			"article": "The worst games of 2025, according to Metacritic",
+			"url": "https://www.polygon.com/worst-video-games-2025-metacritic/",
+			"date": "2025-12-21T13:00:15+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Sega",
+			"weight": 1,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-11T00:00:00+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-11T00:00:00+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Valve",
+			"weight": 1,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-11T00:00:00+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Xbox",
+			"weight": 3,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/worst-video-games-2025-metacritic/",
+			"date": "2025-12-24T17:01:16+00:00"
+		},
+		{
+			"source": "Bandai Namco",
+			"target": "PlayStation",
+			"weight": 1,
+			"article": "Tekken boss Katsuhiro Harada announces departure, marks occasion with hourlong techno mix",
+			"url": "https://www.polygon.com/tekken-boss-katsuhiro-harada-leaves-bandai-namco-techno-mix/",
+			"date": "2025-12-08T13:13:19+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Blizzard",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Electronic Arts",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Larian Studios",
+			"weight": 1,
+			"article": "BG3 studio Larian says it's using genAI for Divinity, but not 'looking at trimming down teams to replace them'",
+			"url": "https://www.polygon.com/divinity-larian-studios-generative-ai-swen-vincke/",
+			"date": "2025-12-16T22:35:01+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Microsoft",
+			"weight": 2,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Nintendo",
+			"weight": 2,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/skyrim-anniversary-edition-nintendo-switch-2-release/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "PlayStation",
+			"weight": 2,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/skyrim-anniversary-edition-nintendo-switch-2-release/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Rockstar",
+			"weight": 1,
+			"article": "Skyrim on Switch 2 shows fans are sick of buggy, basic Bethesda ports",
+			"url": "https://www.polygon.com/skyrim-switch-2-anniversary-edition-bugs-issues-performance-bethesda/",
+			"date": "2025-12-10T17:25:42+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Sega",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Sony",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Tencent",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "'Together, we win': When losing a Game Award is still a victory",
+			"url": "https://www.polygon.com/assassins-creed-shadows-accessibility-interview/",
+			"date": "2025-12-19T14:00:16+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Xbox",
+			"weight": 3,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/skyrim-switch-2-anniversary-edition-bugs-issues-performance-bethesda/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Blizzard",
+			"weight": 2,
+			"article": "The Game Awards 2025: The winners, news, and big reveals",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Capcom",
+			"weight": 3,
+			"article": "The Game Awards 2025: The winners, news, and big reveals",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Electronic Arts",
+			"weight": 1,
+			"article": "Anthem officially dies in two weeks, so now is your last chance to play",
+			"url": "https://www.polygon.com/anthem-sever-shutdown-january-2026/",
+			"date": "2025-12-29T15:00:16+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Larian Studios",
+			"weight": 3,
+			"article": "The Game Awards 2025: The winners, news, and big reveals",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Naughty Dog",
+			"weight": 1,
+			"article": "Every reveal, trailer, and announcement from The Game Awards 2025",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Nintendo",
+			"weight": 2,
+			"article": "Metroid Prime 4 is the Dragon Age Veilguard of Metroid",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "PlayStation",
+			"weight": 4,
+			"article": "What is Exodus? The new RPG from ex-BioWare crew promises galaxy-spanning choices you actually feel",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-23T19:00:16+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Sega",
+			"weight": 2,
+			"article": "The Game Awards 2025: The winners, news, and big reveals",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Sony",
+			"weight": 2,
+			"article": "The Game Awards 2025: The winners, news, and big reveals",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Xbox",
+			"weight": 4,
+			"article": "What is Exodus? The new RPG from ex-BioWare crew promises galaxy-spanning choices you actually feel",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-23T19:00:16+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Capcom",
+			"weight": 2,
+			"article": "The Game Awards 2025: The winners, news, and big reveals",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Electronic Arts",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Epic Games",
+			"weight": 1,
+			"article": "The games we played the most in 2025",
+			"url": "https://www.polygon.com/most-played-games-2025/",
+			"date": "2025-12-31T15:00:16+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Larian Studios",
+			"weight": 2,
+			"article": "The Game Awards 2025: The winners, news, and big reveals",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Naughty Dog",
+			"weight": 1,
+			"article": "Every reveal, trailer, and announcement from The Game Awards 2025",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Nintendo",
+			"weight": 2,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "PlayStation",
+			"weight": 4,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Sega",
+			"weight": 3,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Sony",
+			"weight": 3,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Tencent",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Xbox",
+			"weight": 5,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-31T15:00:16+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Electronic Arts",
+			"weight": 1,
+			"article": "PlayStation twiddled its thumbs and counted its money in 2025",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-29T14:00:16+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "PlayStation twiddled its thumbs and counted its money in 2025",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-29T14:00:16+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "PlayStation twiddled its thumbs and counted its money in 2025",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-29T14:00:16+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "PlayStation",
+			"weight": 2,
+			"article": "PlayStation twiddled its thumbs and counted its money in 2025",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-29T14:00:16+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Sony",
+			"weight": 1,
+			"article": "PlayStation twiddled its thumbs and counted its money in 2025",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-29T14:00:16+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Tencent",
+			"weight": 1,
+			"article": "PlayStation twiddled its thumbs and counted its money in 2025",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-29T14:00:16+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Xbox",
+			"weight": 2,
+			"article": "PlayStation twiddled its thumbs and counted its money in 2025",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-29T14:00:16+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "PlayStation",
+			"weight": 1,
+			"article": "No Law is a new gritty cyberpunk shooter that's punching way above its weight",
+			"url": "https://www.polygon.com/no-law-the-game-awards-trailer-neon-giant-cyberpunk/",
+			"date": "2025-12-12T03:13:13+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Valve",
+			"weight": 1,
+			"article": "Steam's bestselling games show 2025 was a wild, unpredictable ride",
+			"url": "https://www.polygon.com/steam-best-selling-pc-games-2025/",
+			"date": "2025-12-30T18:31:35+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "No Law is a new gritty cyberpunk shooter that's punching way above its weight",
+			"url": "https://www.polygon.com/no-law-the-game-awards-trailer-neon-giant-cyberpunk/",
+			"date": "2025-12-12T03:13:13+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "Larian Studios",
+			"weight": 2,
+			"article": "The Game Awards 2025: The winners, news, and big reveals",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "Naughty Dog",
+			"weight": 2,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "Nintendo",
+			"weight": 5,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:48:00+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "PlayStation",
+			"weight": 5,
+			"article": "The Game Awards 2025: The winners, news, and big reveals",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:48:00+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "Sega",
+			"weight": 3,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "Sony",
+			"weight": 2,
+			"article": "The Game Awards 2025: The winners, news, and big reveals",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-11T00:00:00+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "Valve",
+			"weight": 1,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-11T00:00:00+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "Xbox",
+			"weight": 5,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:48:00+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Larian Studios",
+			"weight": 2,
+			"article": "Indie Game Awards rescinds Clair Obscur's GOTY wins over use of generative AI",
+			"url": "https://www.polygon.com/clair-obscur-expedition-33-indie-game-awards-goty-rescinded/",
+			"date": "2025-12-22T19:24:06+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Microsoft",
+			"weight": 4,
+			"article": "\u2018I don\u2019t think prompting is art.\u2019 The Last of Us director tees off on generative AI",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Naughty Dog",
+			"weight": 1,
+			"article": "\u2018I don\u2019t think prompting is art.\u2019 The Last of Us director tees off on generative AI",
+			"url": "https://www.polygon.com/bruce-straley-generative-ai-interview/",
+			"date": "2025-12-16T16:30:17+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Nintendo",
+			"weight": 5,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/sony-ai-tutorial-ghost-player-ps5-patent-how-does-it-work/",
+			"date": "2025-12-31T17:45:08+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "PlayStation",
+			"weight": 6,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/sony-ai-tutorial-ghost-player-ps5-patent-how-does-it-work/",
+			"date": "2025-12-31T17:45:08+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Sega",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Sony",
+			"weight": 5,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/sony-ai-tutorial-ghost-player-ps5-patent-how-does-it-work/",
+			"date": "2025-12-31T17:45:08+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Tencent",
+			"weight": 2,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "\u2018I don\u2019t think prompting is art.\u2019 The Last of Us director tees off on generative AI",
+			"url": "https://www.polygon.com/bruce-straley-generative-ai-interview/",
+			"date": "2025-12-16T16:30:17+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Valve",
+			"weight": 1,
+			"article": "Indie Game Awards rescinds Clair Obscur's GOTY wins over use of generative AI",
+			"url": "https://www.polygon.com/clair-obscur-expedition-33-indie-game-awards-goty-rescinded/",
+			"date": "2025-12-20T21:43:49+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Xbox",
+			"weight": 2,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "Horizon Zero Dawn 'rip-off' pulled from stores as Sony settles Tencent lawsuit",
+			"url": "https://www.polygon.com/light-of-motiram-horizon-zero-dawn-sony-tencent-lawsuit-settled/",
+			"date": "2025-12-18T16:46:54+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "Sony",
+			"weight": 1,
+			"article": "Horizon Zero Dawn 'rip-off' pulled from stores as Sony settles Tencent lawsuit",
+			"url": "https://www.polygon.com/light-of-motiram-horizon-zero-dawn-sony-tencent-lawsuit-settled/",
+			"date": "2025-12-18T16:46:54+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "Tencent",
+			"weight": 1,
+			"article": "Horizon Zero Dawn 'rip-off' pulled from stores as Sony settles Tencent lawsuit",
+			"url": "https://www.polygon.com/light-of-motiram-horizon-zero-dawn-sony-tencent-lawsuit-settled/",
+			"date": "2025-12-18T16:46:54+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "Valve",
+			"weight": 1,
+			"article": "Horses developer says studio likely won\u2019t make another game after Steam delisting",
+			"url": "https://www.polygon.com/horses-banned-game-steam-developer-interview/",
+			"date": "2025-12-09T16:01:15+00:00"
+		},
+		{
+			"source": "Epic Games",
+			"target": "Xbox",
+			"weight": 2,
+			"article": "The games we played the most in 2025",
+			"url": "https://www.polygon.com/most-played-games-2025/",
+			"date": "2025-12-31T15:00:16+00:00"
+		},
+		{
+			"source": "FromSoftware",
+			"target": "Konami",
+			"weight": 1,
+			"article": "The 50 best games of 2025",
+			"url": "https://www.polygon.com/best-games-2025/",
+			"date": "2025-12-19T12:00:16+00:00"
+		},
+		{
+			"source": "FromSoftware",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "The 50 best games of 2025",
+			"url": "https://www.polygon.com/best-games-2025/",
+			"date": "2025-12-19T12:00:16+00:00"
+		},
+		{
+			"source": "FromSoftware",
+			"target": "PlayStation",
+			"weight": 1,
+			"article": "The 50 best games of 2025",
+			"url": "https://www.polygon.com/best-games-2025/",
+			"date": "2025-12-19T12:00:16+00:00"
+		},
+		{
+			"source": "FromSoftware",
+			"target": "Rockstar",
+			"weight": 1,
+			"article": "Nightreign's hellish DLC makes Elden Ring: Shadow of the Erdtree seem easy",
+			"url": "https://www.polygon.com/elden-ring-nightreign-forsaken-hollows-dlc-difficulty-balancers/",
+			"date": "2025-12-08T19:26:23+00:00"
+		},
+		{
+			"source": "FromSoftware",
+			"target": "Sega",
+			"weight": 1,
+			"article": "The 50 best games of 2025",
+			"url": "https://www.polygon.com/best-games-2025/",
+			"date": "2025-12-19T12:00:16+00:00"
+		},
+		{
+			"source": "FromSoftware",
+			"target": "Sony",
+			"weight": 1,
+			"article": "The 50 best games of 2025",
+			"url": "https://www.polygon.com/best-games-2025/",
+			"date": "2025-12-19T12:00:16+00:00"
+		},
+		{
+			"source": "FromSoftware",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "The 50 best games of 2025",
+			"url": "https://www.polygon.com/best-games-2025/",
+			"date": "2025-12-19T12:00:16+00:00"
+		},
+		{
+			"source": "FromSoftware",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "The 50 best games of 2025",
+			"url": "https://www.polygon.com/best-games-2025/",
+			"date": "2025-12-19T12:00:16+00:00"
+		},
+		{
+			"source": "Konami",
+			"target": "Nintendo",
+			"weight": 2,
+			"article": "The year\u2019s best video game remakes, remasters, and re-releases",
+			"url": "https://www.polygon.com/best-video-game-remakes-remasters-rereleases/",
+			"date": "2025-12-28T18:00:17+00:00"
+		},
+		{
+			"source": "Konami",
+			"target": "PlayStation",
+			"weight": 1,
+			"article": "The 50 best games of 2025",
+			"url": "https://www.polygon.com/best-games-2025/",
+			"date": "2025-12-19T12:00:16+00:00"
+		},
+		{
+			"source": "Konami",
+			"target": "Sega",
+			"weight": 2,
+			"article": "The 50 best games of 2025",
+			"url": "https://www.polygon.com/best-ninja-games-2025/",
+			"date": "2025-12-26T16:00:16+00:00"
+		},
+		{
+			"source": "Konami",
+			"target": "Sony",
+			"weight": 1,
+			"article": "The 50 best games of 2025",
+			"url": "https://www.polygon.com/best-games-2025/",
+			"date": "2025-12-19T12:00:16+00:00"
+		},
+		{
+			"source": "Konami",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "The year\u2019s best video game remakes, remasters, and re-releases",
+			"url": "https://www.polygon.com/best-video-game-remakes-remasters-rereleases/",
+			"date": "2025-12-28T18:00:17+00:00"
+		},
+		{
+			"source": "Konami",
+			"target": "Ubisoft",
+			"weight": 2,
+			"article": "The 50 best games of 2025",
+			"url": "https://www.polygon.com/best-ninja-games-2025/",
+			"date": "2025-12-26T16:00:16+00:00"
+		},
+		{
+			"source": "Konami",
+			"target": "Xbox",
+			"weight": 2,
+			"article": "The 50 best games of 2025",
+			"url": "https://www.polygon.com/best-ninja-games-2025/",
+			"date": "2025-12-26T16:00:16+00:00"
+		},
+		{
+			"source": "Larian Studios",
+			"target": "Microsoft",
+			"weight": 2,
+			"article": "Indie Game Awards rescinds Clair Obscur's GOTY wins over use of generative AI",
+			"url": "https://www.polygon.com/divinity-larian-studios-generative-ai-swen-vincke/",
+			"date": "2025-12-20T21:43:49+00:00"
+		},
+		{
+			"source": "Larian Studios",
+			"target": "Naughty Dog",
+			"weight": 2,
+			"article": "The gaming world just had its A24 Oscar moment",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T17:30:14+00:00"
+		},
+		{
+			"source": "Larian Studios",
+			"target": "Nintendo",
+			"weight": 3,
+			"article": "The gaming world just had its A24 Oscar moment",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T17:30:14+00:00"
+		},
+		{
+			"source": "Larian Studios",
+			"target": "PlayStation",
+			"weight": 3,
+			"article": "The Game Awards 2025: The winners, news, and big reveals",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-20T21:43:49+00:00"
+		},
+		{
+			"source": "Larian Studios",
+			"target": "Rockstar",
+			"weight": 1,
+			"article": "The gaming world just had its A24 Oscar moment",
+			"url": "https://www.polygon.com/game-of-the-year-goty-game-awards-clair-obscur-a24-oscars/",
+			"date": "2025-12-12T17:30:14+00:00"
+		},
+		{
+			"source": "Larian Studios",
+			"target": "Sega",
+			"weight": 2,
+			"article": "The Game Awards 2025: The winners, news, and big reveals",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "Larian Studios",
+			"target": "Sony",
+			"weight": 4,
+			"article": "The gaming world just had its A24 Oscar moment",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T17:30:14+00:00"
+		},
+		{
+			"source": "Larian Studios",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "The gaming world just had its A24 Oscar moment",
+			"url": "https://www.polygon.com/game-of-the-year-goty-game-awards-clair-obscur-a24-oscars/",
+			"date": "2025-12-12T17:30:14+00:00"
+		},
+		{
+			"source": "Larian Studios",
+			"target": "Valve",
+			"weight": 1,
+			"article": "Indie Game Awards rescinds Clair Obscur's GOTY wins over use of generative AI",
+			"url": "https://www.polygon.com/clair-obscur-expedition-33-indie-game-awards-goty-rescinded/",
+			"date": "2025-12-20T21:43:49+00:00"
+		},
+		{
+			"source": "Larian Studios",
+			"target": "Xbox",
+			"weight": 2,
+			"article": "The Game Awards 2025: The winners, news, and big reveals",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Naughty Dog",
+			"weight": 1,
+			"article": "\u2018I don\u2019t think prompting is art.\u2019 The Last of Us director tees off on generative AI",
+			"url": "https://www.polygon.com/bruce-straley-generative-ai-interview/",
+			"date": "2025-12-16T16:30:17+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Nintendo",
+			"weight": 6,
+			"article": "\u2018There's a demand for togetherness\u2019: A new console aims to challenge PlayStation and Nintendo with tabletop tech",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "PlayStation",
+			"weight": 4,
+			"article": "\u2018There's a demand for togetherness\u2019: A new console aims to challenge PlayStation and Nintendo with tabletop tech",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Sega",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Sony",
+			"weight": 6,
+			"article": "\u2018There's a demand for togetherness\u2019: A new console aims to challenge PlayStation and Nintendo with tabletop tech",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "Two Tomb Raider games announced, a remake and an entirely new experience",
+			"url": "https://www.polygon.com/tomb-raider-catalyst-atlantis-remake-sequel-crystal-dynamics-lara-croft-design/",
+			"date": "2025-12-12T02:42:27+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Tencent",
+			"weight": 2,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Ubisoft",
+			"weight": 2,
+			"article": "\u2018I don\u2019t think prompting is art.\u2019 The Last of Us director tees off on generative AI",
+			"url": "https://www.polygon.com/game-awards-expedition-33-disqualified-did-it-use-ai-response/",
+			"date": "2025-12-24T16:23:06+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Valve",
+			"weight": 1,
+			"article": "Indie Game Awards rescinds Clair Obscur's GOTY wins over use of generative AI",
+			"url": "https://www.polygon.com/clair-obscur-expedition-33-indie-game-awards-goty-rescinded/",
+			"date": "2025-12-20T21:43:49+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Xbox",
+			"weight": 4,
+			"article": "\u2018There's a demand for togetherness\u2019: A new console aims to challenge PlayStation and Nintendo with tabletop tech",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "Nintendo",
+			"weight": 3,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T17:30:14+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "PlayStation",
+			"weight": 1,
+			"article": "Every reveal, trailer, and announcement from The Game Awards 2025",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "Rockstar",
+			"weight": 1,
+			"article": "The gaming world just had its A24 Oscar moment",
+			"url": "https://www.polygon.com/game-of-the-year-goty-game-awards-clair-obscur-a24-oscars/",
+			"date": "2025-12-12T17:30:14+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "Sega",
+			"weight": 2,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "Sony",
+			"weight": 3,
+			"article": "\u2018I was working really, really hard at something that wasn\u2019t mine.\u2019 The Last of Us director explains why he left Naughty Dog",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T17:30:14+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-11T00:00:00+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "Ubisoft",
+			"weight": 2,
+			"article": "\u2018I don\u2019t think prompting is art.\u2019 The Last of Us director tees off on generative AI",
+			"url": "https://www.polygon.com/game-of-the-year-goty-game-awards-clair-obscur-a24-oscars/",
+			"date": "2025-12-16T16:30:17+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "Valve",
+			"weight": 1,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-11T00:00:00+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "Xbox",
+			"weight": 2,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-12T04:09:47+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "PlayStation",
+			"weight": 18,
+			"article": "\u2018There's a demand for togetherness\u2019: A new console aims to challenge PlayStation and Nintendo with tabletop tech",
+			"url": "https://www.polygon.com/zelda-like-game-pipistrello-cursed-yoyo-steam-switch-ps5-xbox/",
+			"date": "2025-12-31T17:45:08+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Rockstar",
+			"weight": 2,
+			"article": "The worst games of 2025, according to Metacritic",
+			"url": "https://www.polygon.com/worst-video-games-2025-metacritic/",
+			"date": "2025-12-21T13:00:15+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Sega",
+			"weight": 6,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Sony",
+			"weight": 14,
+			"article": "\u2018There's a demand for togetherness\u2019: A new console aims to challenge PlayStation and Nintendo with tabletop tech",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-31T17:45:08+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Square Enix",
+			"weight": 4,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-28T18:00:17+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Tencent",
+			"weight": 3,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Ubisoft",
+			"weight": 3,
+			"article": "The gaming world just had its A24 Oscar moment",
+			"url": "https://www.polygon.com/game-of-the-year-goty-game-awards-clair-obscur-a24-oscars/",
+			"date": "2025-12-23T17:30:15+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Valve",
+			"weight": 1,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-11T00:00:00+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Xbox",
+			"weight": 17,
+			"article": "\u2018There's a demand for togetherness\u2019: A new console aims to challenge PlayStation and Nintendo with tabletop tech",
+			"url": "https://www.polygon.com/zelda-like-game-pipistrello-cursed-yoyo-steam-switch-ps5-xbox/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Rockstar",
+			"weight": 2,
+			"article": "The year without Grand Theft Auto 6",
+			"url": "https://www.polygon.com/worst-video-games-2025-metacritic/",
+			"date": "2025-12-31T12:00:16+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Sega",
+			"weight": 5,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/tomb-raider-catalyst-developer-interview-crystal-dynamics/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Sony",
+			"weight": 10,
+			"article": "\u2018There's a demand for togetherness\u2019: A new console aims to challenge PlayStation and Nintendo with tabletop tech",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-31T17:45:08+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "Universes Beyond truly began to dominate Magic: The Gathering in 2025",
+			"url": "https://www.polygon.com/magic-the-gathering-mtg-2025-review-universes-beyond/",
+			"date": "2025-12-23T14:01:16+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Take-Two",
+			"weight": 1,
+			"article": "The year without Grand Theft Auto 6",
+			"url": "https://www.polygon.com/2025-no-gta-6-rockstar-games/",
+			"date": "2025-12-31T12:00:16+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Tencent",
+			"weight": 2,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Ubisoft",
+			"weight": 2,
+			"article": "The 50 best games of 2025",
+			"url": "https://www.polygon.com/expedition-33-goty-nominations-haters-reddit-tiktok-twitch/",
+			"date": "2025-12-23T17:30:15+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Valve",
+			"weight": 1,
+			"article": "Indie Game Awards rescinds Clair Obscur's GOTY wins over use of generative AI",
+			"url": "https://www.polygon.com/clair-obscur-expedition-33-indie-game-awards-goty-rescinded/",
+			"date": "2025-12-20T21:43:49+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Xbox",
+			"weight": 32,
+			"article": "\u2018There's a demand for togetherness\u2019: A new console aims to challenge PlayStation and Nintendo with tabletop tech",
+			"url": "https://www.polygon.com/zelda-like-game-pipistrello-cursed-yoyo-steam-switch-ps5-xbox/",
+			"date": "2025-12-31T12:00:16+00:00"
+		},
+		{
+			"source": "Rockstar",
+			"target": "Sony",
+			"weight": 1,
+			"article": "The gaming world just had its A24 Oscar moment",
+			"url": "https://www.polygon.com/game-of-the-year-goty-game-awards-clair-obscur-a24-oscars/",
+			"date": "2025-12-12T17:30:14+00:00"
+		},
+		{
+			"source": "Rockstar",
+			"target": "Take-Two",
+			"weight": 1,
+			"article": "The year without Grand Theft Auto 6",
+			"url": "https://www.polygon.com/2025-no-gta-6-rockstar-games/",
+			"date": "2025-12-31T12:00:16+00:00"
+		},
+		{
+			"source": "Rockstar",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "The gaming world just had its A24 Oscar moment",
+			"url": "https://www.polygon.com/game-of-the-year-goty-game-awards-clair-obscur-a24-oscars/",
+			"date": "2025-12-12T17:30:14+00:00"
+		},
+		{
+			"source": "Rockstar",
+			"target": "Valve",
+			"weight": 1,
+			"article": "Steam user asks devs to fix game, gets blasted for pirating it",
+			"url": "https://www.polygon.com/steam-game-piracy-farthest-frontier-city-builder-fan/",
+			"date": "2025-12-22T20:00:14+00:00"
+		},
+		{
+			"source": "Rockstar",
+			"target": "Xbox",
+			"weight": 3,
+			"article": "The year without Grand Theft Auto 6",
+			"url": "https://www.polygon.com/worst-video-games-2025-metacritic/",
+			"date": "2025-12-31T12:00:16+00:00"
+		},
+		{
+			"source": "Sega",
+			"target": "Sony",
+			"weight": 5,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Sega",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-11T00:00:00+00:00"
+		},
+		{
+			"source": "Sega",
+			"target": "Tencent",
+			"weight": 1,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/microsoft-gaming-2025-xbox-series-x-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Sega",
+			"target": "Ubisoft",
+			"weight": 2,
+			"article": "The 50 best games of 2025",
+			"url": "https://www.polygon.com/best-ninja-games-2025/",
+			"date": "2025-12-26T16:00:16+00:00"
+		},
+		{
+			"source": "Sega",
+			"target": "Valve",
+			"weight": 1,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-11T00:00:00+00:00"
+		},
+		{
+			"source": "Sega",
+			"target": "Xbox",
+			"weight": 7,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Sony",
+			"target": "Tencent",
+			"weight": 3,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Sony",
+			"target": "Ubisoft",
+			"weight": 2,
+			"article": "The gaming world just had its A24 Oscar moment",
+			"url": "https://www.polygon.com/game-of-the-year-goty-game-awards-clair-obscur-a24-oscars/",
+			"date": "2025-12-19T12:00:16+00:00"
+		},
+		{
+			"source": "Sony",
+			"target": "Warner Bros",
+			"weight": 1,
+			"article": "To create the DCU, James Gunn broke all the universe-launching rules",
+			"url": "https://www.polygon.com/2025-state-of-the-dcu/",
+			"date": "2025-12-27T15:00:17+00:00"
+		},
+		{
+			"source": "Sony",
+			"target": "Xbox",
+			"weight": 9,
+			"article": "\u2018There's a demand for togetherness\u2019: A new console aims to challenge PlayStation and Nintendo with tabletop tech",
+			"url": "https://www.polygon.com/tga-the-game-awards-2025-biggest-reveals-trailers-announcements/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Square Enix",
+			"target": "Valve",
+			"weight": 1,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-11T00:00:00+00:00"
+		},
+		{
+			"source": "Square Enix",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-11T00:00:00+00:00"
+		},
+		{
+			"source": "Take-Two",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "The year without Grand Theft Auto 6",
+			"url": "https://www.polygon.com/2025-no-gta-6-rockstar-games/",
+			"date": "2025-12-31T12:00:16+00:00"
+		},
+		{
+			"source": "Tencent",
+			"target": "Xbox",
+			"weight": 2,
+			"article": "Xbox\u2019s 2025 was pure chaos",
+			"url": "https://www.polygon.com/playstation-2025-sony-ps5-year-in-review/",
+			"date": "2025-12-30T14:00:17+00:00"
+		},
+		{
+			"source": "Ubisoft",
+			"target": "Xbox",
+			"weight": 2,
+			"article": "The 50 best games of 2025",
+			"url": "https://www.polygon.com/best-ninja-games-2025/",
+			"date": "2025-12-26T16:00:16+00:00"
+		},
+		{
+			"source": "Valve",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "What we think (hope?) gets announced at the 2025 Game Awards",
+			"url": "https://www.polygon.com/game-awards-2025-tgas-premieres-trailers-predictions-reveals/",
+			"date": "2025-12-11T00:00:00+00:00"
+		}
+	]
+}

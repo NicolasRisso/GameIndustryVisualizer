@@ -1,0 +1,1347 @@
+{
+	"year": "2026",
+	"nodes": [
+		{
+			"id": "Activision",
+			"name": "Activision",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Atlus",
+			"name": "Atlus",
+			"val": 3,
+			"group": 1
+		},
+		{
+			"id": "Bandai Namco",
+			"name": "Bandai Namco",
+			"val": 3,
+			"group": 1
+		},
+		{
+			"id": "Bethesda",
+			"name": "Bethesda",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "BioWare",
+			"name": "BioWare",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Blizzard",
+			"name": "Blizzard",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Bungie",
+			"name": "Bungie",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "CD Projekt",
+			"name": "CD Projekt",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Capcom",
+			"name": "Capcom",
+			"val": 4,
+			"group": 1
+		},
+		{
+			"id": "Electronic Arts",
+			"name": "Electronic Arts",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "FromSoftware",
+			"name": "FromSoftware",
+			"val": 4,
+			"group": 1
+		},
+		{
+			"id": "Insomniac",
+			"name": "Insomniac",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "Microsoft",
+			"name": "Microsoft",
+			"val": 6,
+			"group": 1
+		},
+		{
+			"id": "Mojang",
+			"name": "Mojang",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Naughty Dog",
+			"name": "Naughty Dog",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "Nintendo",
+			"name": "Nintendo",
+			"val": 33,
+			"group": 1
+		},
+		{
+			"id": "PlayStation",
+			"name": "PlayStation",
+			"val": 20,
+			"group": 1
+		},
+		{
+			"id": "Rockstar",
+			"name": "Rockstar",
+			"val": 3,
+			"group": 1
+		},
+		{
+			"id": "Sega",
+			"name": "Sega",
+			"val": 5,
+			"group": 1
+		},
+		{
+			"id": "Sony",
+			"name": "Sony",
+			"val": 8,
+			"group": 1
+		},
+		{
+			"id": "Square Enix",
+			"name": "Square Enix",
+			"val": 10,
+			"group": 1
+		},
+		{
+			"id": "Take-Two",
+			"name": "Take-Two",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Ubisoft",
+			"name": "Ubisoft",
+			"val": 2,
+			"group": 1
+		},
+		{
+			"id": "Valve",
+			"name": "Valve",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "Warner Bros",
+			"name": "Warner Bros",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "Xbox",
+			"name": "Xbox",
+			"val": 27,
+			"group": 1
+		}
+	],
+	"links": [
+		{
+			"source": "Activision",
+			"target": "Atlus",
+			"weight": 1,
+			"article": "Every big announcement from Xbox Games Showcase 2026",
+			"url": "https://www.polygon.com/everything-announced-xbox-games-showcase-june-2026/",
+			"date": "2026-06-07T18:37:55+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Bethesda",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Blizzard",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Bungie",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Microsoft",
+			"weight": 2,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Mojang",
+			"weight": 1,
+			"article": "Every big announcement from Xbox Games Showcase 2026",
+			"url": "https://www.polygon.com/everything-announced-xbox-games-showcase-june-2026/",
+			"date": "2026-06-07T18:37:55+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "PlayStation",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Sega",
+			"weight": 1,
+			"article": "Every big announcement from Xbox Games Showcase 2026",
+			"url": "https://www.polygon.com/everything-announced-xbox-games-showcase-june-2026/",
+			"date": "2026-06-07T18:37:55+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Sony",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Activision",
+			"target": "Xbox",
+			"weight": 2,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Bandai Namco",
+			"weight": 1,
+			"article": "Every big announcement from the June 2026 Nintendo Direct",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Capcom",
+			"weight": 1,
+			"article": "Every big announcement from the June 2026 Nintendo Direct",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "FromSoftware",
+			"weight": 1,
+			"article": "Every big announcement from the June 2026 Nintendo Direct",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "Every big announcement from Xbox Games Showcase 2026",
+			"url": "https://www.polygon.com/everything-announced-xbox-games-showcase-june-2026/",
+			"date": "2026-06-07T18:37:55+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Mojang",
+			"weight": 1,
+			"article": "Every big announcement from Xbox Games Showcase 2026",
+			"url": "https://www.polygon.com/everything-announced-xbox-games-showcase-june-2026/",
+			"date": "2026-06-07T18:37:55+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "Every big announcement from the June 2026 Nintendo Direct",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Sega",
+			"weight": 2,
+			"article": "Persona 6 gets a moody, broody official reveal set in a graveyard",
+			"url": "https://www.polygon.com/persona-6-announced-atlus/",
+			"date": "2026-06-07T18:37:55+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Sony",
+			"weight": 1,
+			"article": "Every big announcement from the June 2026 Nintendo Direct",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "Every big announcement from the June 2026 Nintendo Direct",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "Every big announcement from the June 2026 Nintendo Direct",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Atlus",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "Every big announcement from Xbox Games Showcase 2026",
+			"url": "https://www.polygon.com/everything-announced-xbox-games-showcase-june-2026/",
+			"date": "2026-06-07T18:37:55+00:00"
+		},
+		{
+			"source": "Bandai Namco",
+			"target": "Capcom",
+			"weight": 1,
+			"article": "Every big announcement from the June 2026 Nintendo Direct",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Bandai Namco",
+			"target": "FromSoftware",
+			"weight": 2,
+			"article": "The Duskbloods will be playable on Switch 2 this summer",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Bandai Namco",
+			"target": "Nintendo",
+			"weight": 2,
+			"article": "The Duskbloods will be playable on Switch 2 this summer",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Bandai Namco",
+			"target": "Sony",
+			"weight": 1,
+			"article": "Every big announcement from the June 2026 Nintendo Direct",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Bandai Namco",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "Every big announcement from the June 2026 Nintendo Direct",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Bandai Namco",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "Every big announcement from the June 2026 Nintendo Direct",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Bandai Namco",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "You've already seen The Blood of Dawnwalker's post-credits scene, according to the devs",
+			"url": "https://www.polygon.com/blood-dawnwalker-end-credits-interview-rebel-wolves/",
+			"date": "2026-06-09T01:00:20+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Blizzard",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Bungie",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Nintendo",
+			"weight": 2,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-09T21:00:20+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "PlayStation",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Sony",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Bethesda",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "CD Projekt",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Electronic Arts",
+			"weight": 2,
+			"article": "What we know about every Star Wars game in active development",
+			"url": "https://www.polygon.com/star-wars-games-all-updates-release-dates/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Naughty Dog",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "PlayStation",
+			"weight": 1,
+			"article": "What we know about every Star Wars game in active development",
+			"url": "https://www.polygon.com/star-wars-games-all-updates-release-dates/",
+			"date": "2026-05-04T17:30:20+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Rockstar",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Sega",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Sony",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Take-Two",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "BioWare",
+			"target": "Xbox",
+			"weight": 2,
+			"article": "What we know about every Star Wars game in active development",
+			"url": "https://www.polygon.com/star-wars-games-all-updates-release-dates/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Bungie",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Nintendo",
+			"weight": 2,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-09T16:39:26+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "PlayStation",
+			"weight": 2,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-09T16:39:26+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Sony",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Blizzard",
+			"target": "Xbox",
+			"weight": 2,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-09T16:39:26+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Microsoft",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "PlayStation",
+			"weight": 2,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-09T12:00:20+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Sony",
+			"weight": 2,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-09T12:00:20+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Bungie",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Electronic Arts",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "FromSoftware",
+			"weight": 1,
+			"article": "The best Breath of the Wild replacements to play while waiting for Zelda\u2019s next big era",
+			"url": "https://www.polygon.com/best-zelda-breath-of-the-wild-replacements-open-world-games-like-botw/",
+			"date": "2026-06-08T01:31:20+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Naughty Dog",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Nintendo",
+			"weight": 2,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Rockstar",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Sega",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Sony",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Square Enix",
+			"weight": 2,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Take-Two",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "The best Breath of the Wild replacements to play while waiting for Zelda\u2019s next big era",
+			"url": "https://www.polygon.com/best-zelda-breath-of-the-wild-replacements-open-world-games-like-botw/",
+			"date": "2026-06-08T01:31:20+00:00"
+		},
+		{
+			"source": "CD Projekt",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "FromSoftware",
+			"weight": 2,
+			"article": "Nintendo Direct summer 2026 live: every reveal in one place",
+			"url": "https://www.polygon.com/nintendo-direct-summer-2026-live-every-reveal-in-one-place/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "Nintendo",
+			"weight": 3,
+			"article": "Nintendo Direct summer 2026 live: every reveal in one place",
+			"url": "https://www.polygon.com/nintendo-direct-summer-2026-live-every-reveal-in-one-place/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "PlayStation",
+			"weight": 2,
+			"article": "Nintendo Direct summer 2026 live: every reveal in one place",
+			"url": "https://www.polygon.com/nintendo-direct-summer-2026-live-every-reveal-in-one-place/",
+			"date": "2026-06-09T14:44:42+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "Sony",
+			"weight": 1,
+			"article": "Every big announcement from the June 2026 Nintendo Direct",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "Square Enix",
+			"weight": 2,
+			"article": "Nintendo Direct summer 2026 live: every reveal in one place",
+			"url": "https://www.polygon.com/nintendo-direct-summer-2026-live-every-reveal-in-one-place/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "Every big announcement from the June 2026 Nintendo Direct",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Capcom",
+			"target": "Xbox",
+			"weight": 2,
+			"article": "Nintendo Direct summer 2026 live: every reveal in one place",
+			"url": "https://www.polygon.com/nintendo-direct-summer-2026-live-every-reveal-in-one-place/",
+			"date": "2026-06-09T14:44:42+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Naughty Dog",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "PlayStation",
+			"weight": 1,
+			"article": "What we know about every Star Wars game in active development",
+			"url": "https://www.polygon.com/star-wars-games-all-updates-release-dates/",
+			"date": "2026-05-04T17:30:20+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Rockstar",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Sega",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Sony",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Take-Two",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Electronic Arts",
+			"target": "Xbox",
+			"weight": 2,
+			"article": "What we know about every Star Wars game in active development",
+			"url": "https://www.polygon.com/star-wars-games-all-updates-release-dates/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "FromSoftware",
+			"target": "Nintendo",
+			"weight": 4,
+			"article": "The best Breath of the Wild replacements to play while waiting for Zelda\u2019s next big era",
+			"url": "https://www.polygon.com/nintendo-direct-summer-2026-live-every-reveal-in-one-place/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "FromSoftware",
+			"target": "PlayStation",
+			"weight": 1,
+			"article": "Nintendo Direct summer 2026 live: every reveal in one place",
+			"url": "https://www.polygon.com/nintendo-direct-summer-2026-live-every-reveal-in-one-place/",
+			"date": "2026-06-09T12:53:30+00:00"
+		},
+		{
+			"source": "FromSoftware",
+			"target": "Sony",
+			"weight": 1,
+			"article": "Every big announcement from the June 2026 Nintendo Direct",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "FromSoftware",
+			"target": "Square Enix",
+			"weight": 3,
+			"article": "The best Breath of the Wild replacements to play while waiting for Zelda\u2019s next big era",
+			"url": "https://www.polygon.com/nintendo-direct-summer-2026-live-every-reveal-in-one-place/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "FromSoftware",
+			"target": "Ubisoft",
+			"weight": 2,
+			"article": "The best Breath of the Wild replacements to play while waiting for Zelda\u2019s next big era",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "FromSoftware",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "Nintendo Direct summer 2026 live: every reveal in one place",
+			"url": "https://www.polygon.com/nintendo-direct-summer-2026-live-every-reveal-in-one-place/",
+			"date": "2026-06-09T12:53:30+00:00"
+		},
+		{
+			"source": "Insomniac",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "Summer Game Fest 2026 schedule: All conference dates and times",
+			"url": "https://www.polygon.com/sgf-summer-game-fest-2026-schedule-all-conference-dates-and-times/",
+			"date": "2026-05-25T10:00:29+00:00"
+		},
+		{
+			"source": "Insomniac",
+			"target": "Sony",
+			"weight": 1,
+			"article": "Summer Game Fest 2026 schedule: All conference dates and times",
+			"url": "https://www.polygon.com/sgf-summer-game-fest-2026-schedule-all-conference-dates-and-times/",
+			"date": "2026-05-25T10:00:29+00:00"
+		},
+		{
+			"source": "Insomniac",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "Summer Game Fest 2026 schedule: All conference dates and times",
+			"url": "https://www.polygon.com/sgf-summer-game-fest-2026-schedule-all-conference-dates-and-times/",
+			"date": "2026-05-25T10:00:29+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Mojang",
+			"weight": 1,
+			"article": "Every big announcement from Xbox Games Showcase 2026",
+			"url": "https://www.polygon.com/everything-announced-xbox-games-showcase-june-2026/",
+			"date": "2026-06-07T18:37:55+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "PlayStation",
+			"weight": 3,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-09T22:00:21+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Sega",
+			"weight": 1,
+			"article": "Every big announcement from Xbox Games Showcase 2026",
+			"url": "https://www.polygon.com/everything-announced-xbox-games-showcase-june-2026/",
+			"date": "2026-06-07T18:37:55+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Sony",
+			"weight": 2,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-09T22:00:21+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-08T15:00:27+00:00"
+		},
+		{
+			"source": "Microsoft",
+			"target": "Xbox",
+			"weight": 6,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-09T22:00:21+00:00"
+		},
+		{
+			"source": "Mojang",
+			"target": "Sega",
+			"weight": 1,
+			"article": "Every big announcement from Xbox Games Showcase 2026",
+			"url": "https://www.polygon.com/everything-announced-xbox-games-showcase-june-2026/",
+			"date": "2026-06-07T18:37:55+00:00"
+		},
+		{
+			"source": "Mojang",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "Every big announcement from Xbox Games Showcase 2026",
+			"url": "https://www.polygon.com/everything-announced-xbox-games-showcase-june-2026/",
+			"date": "2026-06-07T18:37:55+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "Nintendo",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "Rockstar",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "Sega",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "Sony",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "Take-Two",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Naughty Dog",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "PlayStation",
+			"weight": 15,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-10T00:02:15+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Rockstar",
+			"weight": 2,
+			"article": "Why wasn't GTA 6 at Summer Game Fest 2026?",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-09T16:30:19+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Sega",
+			"weight": 3,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-09T23:00:28+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Sony",
+			"weight": 6,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-09T16:30:19+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Square Enix",
+			"weight": 8,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-10T00:02:15+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Take-Two",
+			"weight": 2,
+			"article": "Why wasn't GTA 6 at Summer Game Fest 2026?",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-09T16:30:19+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Ubisoft",
+			"weight": 2,
+			"article": "The best Breath of the Wild replacements to play while waiting for Zelda\u2019s next big era",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Valve",
+			"weight": 1,
+			"article": "Dishonored\u2019s best new replacement is ironically a remake of the game that inspired it",
+			"url": "https://www.polygon.com/thief-the-dark-project-remastered-preview/",
+			"date": "2026-06-09T15:00:21+00:00"
+		},
+		{
+			"source": "Nintendo",
+			"target": "Xbox",
+			"weight": 16,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-10T00:02:15+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Rockstar",
+			"weight": 1,
+			"article": "Why wasn't GTA 6 at Summer Game Fest 2026?",
+			"url": "https://www.polygon.com/gta-6-grand-theft-auto-summer-game-fest-sgf-2026/",
+			"date": "2026-06-09T16:30:19+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Sega",
+			"weight": 2,
+			"article": "JRPG fans are eating well this year",
+			"url": "https://www.polygon.com/jrpg-summer-game-fest-2026/",
+			"date": "2026-06-09T23:00:28+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Sony",
+			"weight": 5,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-09T22:00:21+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Square Enix",
+			"weight": 5,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-10T00:02:15+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Take-Two",
+			"weight": 1,
+			"article": "Why wasn't GTA 6 at Summer Game Fest 2026?",
+			"url": "https://www.polygon.com/gta-6-grand-theft-auto-summer-game-fest-sgf-2026/",
+			"date": "2026-06-09T16:30:19+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Valve",
+			"weight": 1,
+			"article": "Dishonored\u2019s best new replacement is ironically a remake of the game that inspired it",
+			"url": "https://www.polygon.com/thief-the-dark-project-remastered-preview/",
+			"date": "2026-06-09T15:00:21+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Xbox",
+			"weight": 18,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-10T00:02:15+00:00"
+		},
+		{
+			"source": "Rockstar",
+			"target": "Sega",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Rockstar",
+			"target": "Sony",
+			"weight": 2,
+			"article": "Why wasn't GTA 6 at Summer Game Fest 2026?",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-09T16:30:19+00:00"
+		},
+		{
+			"source": "Rockstar",
+			"target": "Square Enix",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Rockstar",
+			"target": "Take-Two",
+			"weight": 2,
+			"article": "Why wasn't GTA 6 at Summer Game Fest 2026?",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-09T16:30:19+00:00"
+		},
+		{
+			"source": "Rockstar",
+			"target": "Xbox",
+			"weight": 2,
+			"article": "Why wasn't GTA 6 at Summer Game Fest 2026?",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-09T16:30:19+00:00"
+		},
+		{
+			"source": "Sega",
+			"target": "Sony",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Sega",
+			"target": "Square Enix",
+			"weight": 2,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-09T23:00:28+00:00"
+		},
+		{
+			"source": "Sega",
+			"target": "Take-Two",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Sega",
+			"target": "Xbox",
+			"weight": 3,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Sony",
+			"target": "Square Enix",
+			"weight": 3,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Sony",
+			"target": "Take-Two",
+			"weight": 2,
+			"article": "Why wasn't GTA 6 at Summer Game Fest 2026?",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-09T16:30:19+00:00"
+		},
+		{
+			"source": "Sony",
+			"target": "Ubisoft",
+			"weight": 1,
+			"article": "Every big announcement from the June 2026 Nintendo Direct",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Sony",
+			"target": "Xbox",
+			"weight": 6,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-09T22:00:21+00:00"
+		},
+		{
+			"source": "Square Enix",
+			"target": "Take-Two",
+			"weight": 1,
+			"article": "The biggest games that skipped Summer Game Fest this year",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-08T17:30:21+00:00"
+		},
+		{
+			"source": "Square Enix",
+			"target": "Ubisoft",
+			"weight": 2,
+			"article": "The best Breath of the Wild replacements to play while waiting for Zelda\u2019s next big era",
+			"url": "https://www.polygon.com/nintendo-direct-june-2026-announcements-trailers-ocarina-of-time-kingdom-hearts/",
+			"date": "2026-06-09T15:23:17+00:00"
+		},
+		{
+			"source": "Square Enix",
+			"target": "Xbox",
+			"weight": 5,
+			"article": "Xbox's return to exclusivity is just a PR exercise \u2014 for now",
+			"url": "https://www.polygon.com/xbox-showcase-exclusives-analysis/",
+			"date": "2026-06-10T00:02:15+00:00"
+		},
+		{
+			"source": "Take-Two",
+			"target": "Xbox",
+			"weight": 2,
+			"article": "Why wasn't GTA 6 at Summer Game Fest 2026?",
+			"url": "https://www.polygon.com/missing-games-summer-game-fest-2026/",
+			"date": "2026-06-09T16:30:19+00:00"
+		},
+		{
+			"source": "Valve",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "Dishonored\u2019s best new replacement is ironically a remake of the game that inspired it",
+			"url": "https://www.polygon.com/thief-the-dark-project-remastered-preview/",
+			"date": "2026-06-09T15:00:21+00:00"
+		}
+	]
+}

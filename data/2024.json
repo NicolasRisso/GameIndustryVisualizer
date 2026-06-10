@@ -1,0 +1,79 @@
+{
+	"year": "2024",
+	"nodes": [
+		{
+			"id": "Insomniac",
+			"name": "Insomniac",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "PlayStation",
+			"name": "PlayStation",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "Sony",
+			"name": "Sony",
+			"val": 1,
+			"group": 1
+		},
+		{
+			"id": "Xbox",
+			"name": "Xbox",
+			"val": 1,
+			"group": 1
+		}
+	],
+	"links": [
+		{
+			"source": "Insomniac",
+			"target": "PlayStation",
+			"weight": 1,
+			"article": "PlayStation 5 Pro Review",
+			"url": "https://www.ign.com/articles/playstation-5-pro-review",
+			"date": "2024-11-06T11:00:00+00:00"
+		},
+		{
+			"source": "Insomniac",
+			"target": "Sony",
+			"weight": 1,
+			"article": "PlayStation 5 Pro Review",
+			"url": "https://www.ign.com/articles/playstation-5-pro-review",
+			"date": "2024-11-06T11:00:00+00:00"
+		},
+		{
+			"source": "Insomniac",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "PlayStation 5 Pro Review",
+			"url": "https://www.ign.com/articles/playstation-5-pro-review",
+			"date": "2024-11-06T11:00:00+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Sony",
+			"weight": 1,
+			"article": "PlayStation 5 Pro Review",
+			"url": "https://www.ign.com/articles/playstation-5-pro-review",
+			"date": "2024-11-06T11:00:00+00:00"
+		},
+		{
+			"source": "PlayStation",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "PlayStation 5 Pro Review",
+			"url": "https://www.ign.com/articles/playstation-5-pro-review",
+			"date": "2024-11-06T11:00:00+00:00"
+		},
+		{
+			"source": "Sony",
+			"target": "Xbox",
+			"weight": 1,
+			"article": "PlayStation 5 Pro Review",
+			"url": "https://www.ign.com/articles/playstation-5-pro-review",
+			"date": "2024-11-06T11:00:00+00:00"
+		}
+	]
+}
